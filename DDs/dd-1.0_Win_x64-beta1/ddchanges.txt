@@ -1,6 +1,6 @@
 1.0beta1
 ========
-- create 2017
+- create 2017 for Win 64bits
 - add errorlevel exit code
 - progress is written to stderr
 
