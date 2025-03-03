@@ -9,17 +9,14 @@
 == Standard Edition ==
 DiskInfo32.exe   : 32bit (x86)
 DiskInfo64.exe   : 64bit (x64)
-DiskInfoA64.exe  : 64bit (ARM64)
 
 == Aoi Edition ==
 DiskInfo32A.exe  : 32bit (x86)
 DiskInfo64A.exe  : 64bit (x64)
-DiskInfoA64A.exe : 64bit (ARM64)
 
 == Shizuku Edition ==
 DiskInfo32S.exe  : 32bit (x86)
 DiskInfo64S.exe  : 64bit (x64)
-DiskInfoA64S.exe : 64bit (ARM64)
 
 == Kurei Kei Edition ==
 DiskInfo32K.exe  : 32bit (x86)
