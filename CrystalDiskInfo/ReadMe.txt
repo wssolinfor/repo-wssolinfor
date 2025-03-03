@@ -21,7 +21,6 @@ DiskInfo64S.exe  : 64bit (x64)
 == Kurei Kei Edition ==
 DiskInfo32K.exe  : 32bit (x86)
 DiskInfo64K.exe  : 64bit (x64)
-DiskInfoA64K.exe : 64bit (ARM64)
 
 == OS ==
 OK: Windows XP/Vista/7/8/8.1/10/11
