@@ -33,7 +33,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="12.375"
      inkscape:cx="20"
-     inkscape:cy="20"
+     inkscape:cy="19.919192"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -46,17 +46,17 @@
      inkscape:label="Logo">
     <g
        id="g2"
-       transform="matrix(0.057,0,0,0.057,-6.6000009,-6.5000007)"
-       style="stroke-width:17.5439">
+       transform="matrix(0.05925,0,0,0.05925,-7.6500005,-7.6500159)"
+       style="stroke-width:16.8777">
       <path
          id="path1"
          d="m 0,0 c 0,138.071 -111.929,250 -250,250 -138.071,0 -250,-111.929 -250,-250 0,-117.245 80.715,-215.622 189.606,-242.638 v 166.242 h -51.552 V 0 h 51.552 v 32.919 c 0,85.092 38.508,124.532 122.048,124.532 15.838,0 43.167,-3.105 54.347,-6.211 V 81.986 c -5.901,0.621 -16.149,0.932 -28.882,0.932 -40.993,0 -56.832,-15.528 -56.832,-55.9 V 0 h 81.659 l -14.028,-76.396 h -67.631 V -248.169 C -95.927,-233.218 0,-127.818 0,0"
-         style="fill:#0866ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.5439"
+         style="fill:#0866ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.8777"
          transform="matrix(1.3333333,0,0,-1.3333333,800,466.66667)" />
       <path
          id="path2"
          d="M 0,0 14.029,76.396 H -67.63 v 27.019 c 0,40.372 15.838,55.899 56.831,55.899 12.733,0 22.981,-0.31 28.882,-0.931 v 69.253 c -11.18,3.106 -38.509,6.212 -54.347,6.212 -83.539,0 -122.048,-39.441 -122.048,-124.533 V 76.396 h -51.552 V 0 h 51.552 v -166.242 c 19.343,-4.798 39.568,-7.362 60.394,-7.362 10.254,0 20.358,0.632 30.288,1.831 L -67.63,0 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.5439"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16.8777"
          transform="matrix(1.3333333,0,0,-1.3333333,597.22333,568.52853)" />
     </g>
   </g>
